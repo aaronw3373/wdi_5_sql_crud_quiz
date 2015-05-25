@@ -15,6 +15,3 @@ You can test your work by running `psql -f quiz.sql`.
 Commit and push your changes.
 
 Submit a pull request.
-
-# wdi_5_sql_crud_quiz
-SQL CRUD Quiz
